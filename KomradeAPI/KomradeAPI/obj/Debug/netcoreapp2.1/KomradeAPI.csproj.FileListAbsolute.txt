@@ -1,0 +1,15 @@
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\KomradeAPI.csprojAssemblyReference.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\KomradeAPI.csproj.CoreCompileInputs.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\KomradeAPI.RazorAssemblyInfo.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\KomradeAPI.RazorAssemblyInfo.cs
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\KomradeAPI.AssemblyInfoInputs.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\KomradeAPI.AssemblyInfo.cs
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Debug\netcoreapp2.1\KomradeAPI.deps.json
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Debug\netcoreapp2.1\KomradeAPI.runtimeconfig.json
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Debug\netcoreapp2.1\KomradeAPI.runtimeconfig.dev.json
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Debug\netcoreapp2.1\KomradeAPI.dll
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Debug\netcoreapp2.1\KomradeAPI.pdb
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\KomradeAPI.RazorTargetAssemblyInfo.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\KomradeAPI.dll
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\KomradeAPI.pdb

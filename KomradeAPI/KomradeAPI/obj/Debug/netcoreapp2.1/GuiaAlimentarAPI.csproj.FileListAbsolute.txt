@@ -1,0 +1,15 @@
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Debug\netcoreapp2.1\GuiaAlimentarAPI.deps.json
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Debug\netcoreapp2.1\GuiaAlimentarAPI.runtimeconfig.json
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Debug\netcoreapp2.1\GuiaAlimentarAPI.runtimeconfig.dev.json
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Debug\netcoreapp2.1\GuiaAlimentarAPI.dll
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Debug\netcoreapp2.1\GuiaAlimentarAPI.pdb
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\GuiaAlimentarAPI.csproj.CoreCompileInputs.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\GuiaAlimentarAPI.RazorAssemblyInfo.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\GuiaAlimentarAPI.RazorAssemblyInfo.cs
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\GuiaAlimentarAPI.AssemblyInfoInputs.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\GuiaAlimentarAPI.AssemblyInfo.cs
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\GuiaAlimentarAPI.RazorTargetAssemblyInfo.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\GuiaAlimentarAPI.dll
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\GuiaAlimentarAPI.pdb
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\GuiaAlimentarAPI.csprojAssemblyReference.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
