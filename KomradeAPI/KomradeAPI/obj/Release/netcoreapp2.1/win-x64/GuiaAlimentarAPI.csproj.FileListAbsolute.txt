@@ -1,0 +1,16 @@
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.exe
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.deps.json
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.runtimeconfig.json
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.runtimeconfig.dev.json
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.dll
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\bin\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.pdb
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.csprojAssemblyReference.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.csproj.CoreCompileInputs.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.RazorAssemblyInfo.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.RazorAssemblyInfo.cs
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Release\netcoreapp2.1\win-x64\UserSecretsAssemblyInfo.cs
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.AssemblyInfoInputs.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.AssemblyInfo.cs
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.RazorTargetAssemblyInfo.cache
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.dll
+C:\Projetos\GuaiAlimentarAPI\GuiaAlimentarAPI\GuiaAlimentarAPI\obj\Release\netcoreapp2.1\win-x64\GuiaAlimentarAPI.pdb
